@@ -8,6 +8,6 @@
 
 **"Задание Python_1_3,1_4,1_5"**
 
-    <img width="1194" alt="image" src="https://github.com/MatveevaUlyana/Introduction_Python_MGIMO/assets/119431787/b33398a7-519c-4aff-bd32-1deeb9c370d5">
+<img width="1194" alt="image" src="https://github.com/MatveevaUlyana/Introduction_Python_MGIMO/assets/119431787/b33398a7-519c-4aff-bd32-1deeb9c370d5">
 
 Ответ в папке: ...
