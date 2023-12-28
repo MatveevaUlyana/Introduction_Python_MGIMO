@@ -1,7 +1,6 @@
 import pandas as pd
 from sklearn.cluster import KMeans
 
-# Чтение датасета
 df = pd.read_csv('/workspaces/Introduction_Python_MGIMO/Mall_Customers.csv')
 
 average1 = df['Spending Score (1-100)'].mean()
